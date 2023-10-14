@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51de77ea.css",
+    "main.js": "/static/js/main.7e0490ea.js",
+    "static/js/27.703f2640.chunk.js": "/static/js/27.703f2640.chunk.js",
+    "static/media/skyline-skyscrapers-construction.png": "/static/media/skyline-skyscrapers-construction.5ac1d5890dac2fce7c71.png",
+    "static/media/close-eye.png": "/static/media/close-eye.565816a47d26f2a5389e.png",
+    "static/media/WCS_PS_Logo-social.jpg": "/static/media/WCS_PS_Logo-social.4d7872f379212a3f31a7.jpg",
+    "index.html": "/index.html",
+    "static/media/line-six.svg": "/static/media/line-six.bf66d8f18d5a32d30b9a.svg",
+    "static/media/underline.svg": "/static/media/underline.42ad6f9267d8aa853f4a.svg",
+    "static/media/line-top.svg": "/static/media/line-top.adbb552f8199544838f3.svg"
+  },
+  "entrypoints": [
+    "static/css/main.51de77ea.css",
+    "static/js/main.7e0490ea.js"
+  ]
+}
